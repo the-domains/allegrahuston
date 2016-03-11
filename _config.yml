@@ -1,0 +1,28 @@
+name: AllegraHuston
+favicon: null
+layout_spectrum: 0.9640886383131146
+typography_spectrum: 0.42334659746848047
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.08261415269225836
+  lightness: 0.5943163500633091
+  saturation: 0.5145151414908469
+  rhythmicContrast: 0.7987891151569784
+purpose: []
